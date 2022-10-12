@@ -1,6 +1,3 @@
-.body {
-
-}
 /* logo */
 .logo {
     color: #000000;
@@ -46,9 +43,10 @@ color: #FFFFFF;
     color: #757575;
 }
 
-
-.y {
-    color: orangered;
+/* footer */
+.adress-town {
+    color: #FFFFFF;
 }
-/*  color: #212121 */
-/*  color: #ffffff */
+.mail-tel {
+color: #FFFFFF99;
+}
