@@ -12,6 +12,10 @@
 .link {
   color:#212121 ;  
 }
+.link:hover,
+.link:focus {
+    background-color:#2196F3 ;
+}
 /* section hero */
 .section-hero .h1 {
 color: #FFFFFF;
